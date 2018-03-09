@@ -20,13 +20,13 @@ class Base extends Component {
                 </div>
         
                 <div className="footer-copyright">
-                <div className="container text-center">
-                <a href="https://www.facebook.com/FoodTruckFinderLife/" target="_blank" class="fa fa-facebook"></a>
-                <a href="https://twitter.com/FTFLife" target="_blank" class="fa fa-twitter"></a>
-                <a href="https://www.instagram.com/foodtruckfinderlife/" target="_blank" class="fa fa-instagram"></a>
-                
-                       © <span className="arial">2018</span> Copyright Food Truck Finder Inc.
-                    </div>
+                    <div className="container text-center">
+                        <a href="https://www.facebook.com/FoodTruckFinderLife/" target="_blank" class="fa fa-facebook"></a>
+                        <a href="https://twitter.com/FTFLife" target="_blank" class="fa fa-twitter"></a>
+                        <a href="https://www.instagram.com/foodtruckfinderlife/" target="_blank" class="fa fa-instagram"></a>
+                        <br/>
+                        <span className="copyright"> © <span className="arial">2018</span> Faction Technologies LLC</span>
+                        </div>
                 </div>
             </div>
         )
